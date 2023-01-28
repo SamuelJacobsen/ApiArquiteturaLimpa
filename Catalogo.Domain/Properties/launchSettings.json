@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Catalogo.Domain": {
+      "commandName": "Executable"
+    }
+  }
+}
